@@ -100,6 +100,8 @@ Data Cleaning & Validation
       ↓
 Cleaned CSV Files
       ↓
+RFM Customer Segmentation
+      ↓
 PostgreSQL
       ↓
 SQL Analysis
@@ -115,10 +117,7 @@ Interactive Dashboard
 Business Insights
 ---
 
-
----
-
-# 📊 RFM Customer Segmentation
+## 📊 RFM Customer Segmentation
 
 RFM (Recency, Frequency, Monetary) analysis was performed using Python to segment customers based on purchasing behavior.
 
